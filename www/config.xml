@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>ActivePair</name>
+    <name>ACCME</name>
 
     <description>
         ACCME RedCap
     </description>
 
     <author href=" " email="kunleoyafajo@yahoo.com">
-                ACCME RedCap 
+                ACCME RedCap
     </author>
 
     <!--
