@@ -9,11 +9,11 @@
     <name>HealthPartnersREDCap</name>
 
     <description>
-        Apps From HealthPartners Institute for Education and Research
+        Active Pair Mobile App
     </description>
 
-    <author href=" " email="vijayakumar.x.thirumalai@healthpartners.com">
-        HealthPartners Research Informatics and Information Services
+    <author href=" " email="kunleoyafajo@yahoo.com">
+        ACCMA Active Pair Mobile App 
     </author>
 
     <!--
@@ -89,7 +89,7 @@
         Otherwise, you can specify specific domains:
     -->
     <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
-    <access origin="https://hprfstudies.org*" subdomains="true"/> <!-- allow local pages -->
+    <access origin="http://mobile.activepair.com*" subdomains="true"/> <!-- allow local pages -->
     <!--
         <access origin="http://phonegap.com" />                    - allow any secure requests to http://phonegap.com/
         <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
